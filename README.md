@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Заголовок с анимацией (опционально, требует подключения внешнего сервиса) -->
 <h1 align="center">👋 Привет, я coolkid</h1>
 
@@ -19,17 +17,14 @@
 🔹 Web security — тоже в зоне моих интересов
 🔹 🏴‍☠️ CTF enthusiast — постоянно решаю задачи
 
-<!--
-**torreto404/torreto404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Технологии и направления
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Область | Технологии / Инструменты |
+|---------|--------------------------|
+| **Языки** | `C`, `Python`, `Bash` |
+| **Реверс-инжиниринг** | `Ghidra`, `IDA Pro`, `gdb` |
+| **Криптография** | `OpenSSL`, `hashcat`, `cryptanalysis`, `John` |
+| **Стеганография** | `steghide`, `binwalk` |
+| **Форензика** |
+| **Пентест** | `Burp Suite`, `Nmap`, `Metasploit`, `SQLmap` etc |
+| **Веб-безопасность** | `XSS`, `SQLi`, `CSRF`, `JWT` etc |
