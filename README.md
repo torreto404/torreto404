@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Обо мне
 
-🔹 C programmer — пишу на C, люблю низкоуровневую разработку
+🔹 C programmer — пишу на C
 🔹 InfoSec researcher — исследую уязвимости и защиту
 🔹 Pentest, Cryptography, Reverse Engineering, Steganography & Forensics
 🔹 Web security — тоже в зоне моих интересов
