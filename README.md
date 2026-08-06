@@ -1,5 +1,5 @@
 <!-- Заголовок с анимацией (опционально, требует подключения внешнего сервиса) -->
-<h1 align="center">👋 Привет, я coolkid</h1>
+<h1 align="center">👋 Hi, I'm coolkid.</h1>
 
 <!-- Анимированная строка (можно заменить на статичный текст) -->
 <p align="center">
@@ -8,35 +8,35 @@
 
 ---
 
-## 👨‍💻 Обо мне
+## 👨‍💻 About Me
 
-🔹 C programmer — пишу на C
-🔹 InfoSec researcher — исследую уязвимости и защиту
-🔹 Pentest, Cryptography, Reverse Engineering, Steganography & Forensics
-🔹 Web security — тоже в зоне моих интересов
-🔹 🏴‍☠️ CTF enthusiast — постоянно решаю задачи
+🔹 C programmer — I code in C
+🔹 InfoSec researcher — researching vulnerabilities and security
+🔹 Pentesting, Cryptography, Reverse Engineering, Steganography & Forensics
+🔹 Web security — also among my interests
+🔹 🏴‍☠️ CTF enthusiast — constantly solving challenges
 
 ---
 
-## 🛠️ Технологии и направления
+## 🛠️ Technologies and Areas of Focus
 
-| Область | Технологии / Инструменты |
+| Area | Technologies / Tools |
 |---------|--------------------------|
-| **Языки** | `C`, `Python`, `Bash` |
-| **Реверс-инжиниринг** | `Ghidra`, `IDA Pro`, `gdb` |
-| **Криптография** | `OpenSSL`, `hashcat`, `cryptanalysis`, `John` |
-| **Стеганография** | `steghide`, `binwalk` |
-| **Форензика** | `Autopsy`, `Wireshark` |
-| **Пентест** | `Burp Suite`, `Nmap`, `Metasploit`, `SQLmap` |
-| **Веб-безопасность** | `XSS`, `SQLi`, `CSRF`, `JWT` |
+| **Languages** | `C`, `Python`, `Bash` |
+| **Reverse Engineering** | `Ghidra`, `IDA Pro`, `gdb` |
+| **Cryptography** | `OpenSSL`, `hashcat`, `cryptanalysis`, `John` |
+| **Steganography** | `steghide`, `binwalk` |
+| **Forensics** | `Autopsy`, `Wireshark` |
+| **Pentesting** | `Burp Suite`, `Nmap`, `Metasploit`, `SQLmap` |
+| **Web Security** | `XSS`, `SQLi`, `CSRF`, `JWT` |
 
 ---
 
-## 🏆 CTF Достижения
+## 🏆CTF Achievements
 
-### Мои профили на платформах
+### My profiles on platforms
 
-| Платформа | Скриншот |
+| Platform | Screenshot |
 |-----------|----------|
 | [**HackerLab**](https://www.hackthebox.com/) | ![CDB](./images/hackerlab.png) |
 | [**TryHackMe**](https://tryhackme.com/) | ![THM](./images/tryhackme.png) |
