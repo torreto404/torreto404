@@ -10,10 +10,10 @@
 
 ## 👨‍💻 About Me
 
-🔹 C programmer — I code in C
-🔹 InfoSec researcher — researching vulnerabilities and security
-🔹 Pentesting, Cryptography, Reverse Engineering, Steganography & Forensics
-🔹 Web security — also among my interests
+🔹 C programmer — I code in C  
+🔹 InfoSec researcher — researching vulnerabilities and security  
+🔹 Pentesting, Cryptography, Reverse Engineering, Steganography & Forensics  
+🔹 Web security — also among my interests  
 🔹 🏴‍☠️ CTF enthusiast — constantly solving challenges
 
 ---
